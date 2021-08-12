@@ -1,0 +1,135 @@
+﻿.insertItem-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0px;
+    width: 100%;
+    min-height: 100vh;
+    height: auto;
+    background-image: url("../asset/background-img.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.back-to-home {
+    width: 90%;
+    text-decoration: none;
+    color: white;
+}
+
+.title {
+    font-size: 3vw;
+    text-align: center;
+    padding: 3%;
+    color: whitesmoke;
+    position:
+}
+
+.upper {
+    width: 80%;
+    display: flex;
+    font-size: 2vw;
+    display: flex;
+    align-items: center;
+}
+
+.logo-image {
+    width: 5vw;
+    margin: 1vw;
+}
+
+.role {
+    background-color: #6BA6D1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 2.5vw;
+    padding-right: 2.5vw;
+    border-radius: 0.5vw;
+    margin: 1vw;
+    height: 5vh;
+}
+
+.role-text {
+    text-align: center;
+    color: white;
+}
+
+.container {
+    width: 80vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(10, 10, 10, 0.5);
+    border-radius: 1vw;
+    min-height: 70vh;
+}
+
+.container-form {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+    .container-form > div {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding-top: 2vh;
+        padding-bottom: 2vh;
+        font-size: 2vw;
+    }
+
+        .container-form > div > span {
+            width: 20vw;
+            color: whitesmoke;
+        }
+
+.textbox {
+    background-color: whitesmoke;
+    width: 20vw;
+    height: 4vh;
+    border-radius: 0.5vw;
+}
+
+.alert-label {
+    color: #cc0000;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    font-size: 1.2vw;
+    text-align: center;
+}
+
+.submit-button {
+    background-color: #f4511e;
+    border: none;
+    border-radius: 0.5vw;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 1.5vw;
+    width: 30%;
+    height: 5vh;
+    transition: all 0.5s;
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+.bottom {
+    width: 80%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.supportBtn {
+    margin: 1vw;
+    width: 5vw;
+}

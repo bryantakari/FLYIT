@@ -1,0 +1,43 @@
+﻿.underconstruction-content {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 100vh;
+    height: auto;
+    margin: 0px;
+    background-image: url("../asset/background-img.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.underconstruction-img {
+    width: 40vw;
+}
+
+.underconstruction-content > h1 {
+    font-size: 4vw;
+    color: yellow;
+}
+
+.underconstruction-content > a {
+    font-size: 2.5vw;
+    text-decoration: none;
+    transition: all 0.5s;
+    color: whitesmoke;
+}
+
+.underconstruction-content > a:hover {
+    font-size: 2.7vw;
+    transition: all 0.5s;
+    color: dimgrey;
+}
+
+.underconstruction-content > a:unhove {
+    font-size: 2.7vw;
+    transition: all 0.5s;
+    color: dimgrey;
+}

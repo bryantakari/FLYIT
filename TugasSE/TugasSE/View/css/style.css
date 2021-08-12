@@ -1,0 +1,15 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Manjari&display=swap');
+
+body {
+    font-family: 'Manjari', sans-serif;
+    margin: 0px;
+    background-color: lightgrey;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+a {
+    text-decoration: none;
+}

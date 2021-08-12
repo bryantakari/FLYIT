@@ -1,0 +1,130 @@
+﻿.login-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5%;
+    margin: 0;
+    background-image: url("../asset/background-img.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    height: auto;
+}
+
+.title {
+    font-size: 5vw;
+    text-align: center;
+    padding: 5%;
+    color: whitesmoke;
+}
+
+.container {
+    background-color: rgba(10, 10, 10, 0.5);
+    display: flex;
+    flex-direction: column;
+    width: 80vw;
+    box-shadow: inherit;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.container-image > img {
+    width: 30vw;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.container-image > img:hover {
+    padding-bottom: 2vh;
+}
+
+.container-form {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.container-form > div {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    font-size: 2vw;
+}
+
+.container-form > div > span {
+    width: 20vw;
+    color: whitesmoke;
+}
+
+.textbox {
+    background-color: whitesmoke;
+    width: 20vw;
+    height: 4vh;
+    border-radius: 0.5vw;
+}
+
+.alert-label {
+    color: #cc0000;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    font-size: 1.2vw;
+    text-align: center;
+}
+
+.login-button {
+    border-radius: 0.5vw;
+    background-color: #f4511e;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 2vw;
+    padding: 2vh;
+    transition: all 0.5s;
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+.login-button:after {
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -2vw;
+    transition: 0.5s;
+}
+
+.login-button:hover {
+    padding-right: 2vw;
+    background-color: #c33409;
+}
+
+.login-button:hover:after {
+    opacity: 1;
+    right: 0;
+}
+
+.forgot-password {
+    padding: 2vh;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+
+.forgot-password:hover {
+    padding: 2vh;
+    text-align: center;
+    color: grey;
+}

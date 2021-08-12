@@ -1,0 +1,504 @@
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\TugasSE.dll.config
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\TugasSE.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\TugasSE.pdb
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\csc.exe
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\csc.exe.config
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\csc.rsp
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\csi.exe
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\csi.exe.config
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\csi.rsp
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\System.AppContext.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\System.Collections.Immutable.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\System.Console.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\System.Globalization.Calendars.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\System.IO.Compression.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\System.IO.FileSystem.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\System.Net.Http.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\System.Net.Sockets.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\System.ValueTuple.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\System.Xml.XPath.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\vbc.exe
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\vbc.exe.config
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\vbc.rsp
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\VBCSCompiler.exe
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\roslyn\VBCSCompiler.exe.config
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\obj\Debug\TugasSE.csprojAssemblyReference.cache
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\obj\Debug\TugasSE.csproj.CoreCompileInputs.cache
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\obj\Debug\TugasSE.csproj.CopyComplete
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\obj\Debug\TugasSE.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\obj\Debug\TugasSE.pdb
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\EntityFramework.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\EntityFramework.SqlServer.dll
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\EntityFramework.xml
+D:\Tugas\Tugas SE\Entre\TugasSE\TugasSE\bin\EntityFramework.SqlServer.xml
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\TugasSE.dll.config
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\TugasSE.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\TugasSE.pdb
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\csc.exe
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\csc.exe.config
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\csc.rsp
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\csi.exe
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\csi.exe.config
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\csi.rsp
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\System.AppContext.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\System.Console.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\System.IO.Compression.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\System.Net.Http.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\System.Net.Sockets.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\System.ValueTuple.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\System.Xml.XPath.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\vbc.exe
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\vbc.exe.config
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\vbc.rsp
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\VBCSCompiler.exe
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\EntityFramework.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\EntityFramework.SqlServer.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\EntityFramework.xml
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\EntityFramework.SqlServer.xml
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\obj\Debug\TugasSE.csprojAssemblyReference.cache
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\obj\Debug\TugasSE.csproj.CoreCompileInputs.cache
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\obj\Debug\TugasSE.csproj.CopyComplete
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\obj\Debug\TugasSE.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-1\TugasSE\TugasSE\obj\Debug\TugasSE.pdb
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\TugasSE.dll.config
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\TugasSE.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\TugasSE.pdb
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\csc.exe
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\csc.exe.config
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\csc.rsp
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\csi.exe
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\csi.exe.config
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\csi.rsp
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\System.AppContext.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\System.Console.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\System.IO.Compression.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\System.Net.Http.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\System.Net.Sockets.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\System.ValueTuple.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\System.Xml.XPath.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\vbc.exe
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\vbc.exe.config
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\vbc.rsp
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\VBCSCompiler.exe
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\EntityFramework.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\EntityFramework.SqlServer.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\EntityFramework.xml
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\EntityFramework.SqlServer.xml
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\obj\Debug\TugasSE.csprojAssemblyReference.cache
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\obj\Debug\TugasSE.csproj.CoreCompileInputs.cache
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\obj\Debug\TugasSE.csproj.CopyComplete
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\obj\Debug\TugasSE.dll
+C:\Users\chris\Downloads\Assignment LAB\Assignment SE FlyIT\TugasSE ver-3\TugasSE\TugasSE\obj\Debug\TugasSE.pdb
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\obj\Debug\TugasSE.csprojAssemblyReference.cache
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\obj\Debug\TugasSE.csproj.CoreCompileInputs.cache
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\obj\Debug\TugasSE.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\obj\Debug\TugasSE.pdb
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\TugasSE.dll.config
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\TugasSE.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\TugasSE.pdb
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\csc.exe
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\csc.exe.config
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\csc.rsp
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\csi.exe
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\csi.exe.config
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\csi.rsp
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.AppContext.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Collections.Immutable.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Console.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Globalization.Calendars.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.IO.Compression.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.IO.FileSystem.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Net.Http.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Net.Sockets.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.ValueTuple.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Xml.XPath.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\vbc.exe
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\vbc.exe.config
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\vbc.rsp
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\VBCSCompiler.exe
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\VBCSCompiler.exe.config
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\EntityFramework.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\EntityFramework.SqlServer.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\EntityFramework.xml
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\EntityFramework.SqlServer.xml
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Tugas\Tugas SE\Entre\TugasSE ver-4\TugasSE ver-4\TugasSE\TugasSE\obj\Debug\TugasSE.csproj.CopyComplete
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\TugasSE.dll.config
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\TugasSE.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\TugasSE.pdb
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\csc.exe
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\csc.exe.config
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\csc.rsp
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\csi.exe
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\csi.exe.config
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\csi.rsp
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.AppContext.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Console.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.IO.Compression.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Net.Http.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Net.Sockets.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.ValueTuple.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Xml.XPath.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\vbc.exe
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\vbc.exe.config
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\vbc.rsp
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\VBCSCompiler.exe
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\EntityFramework.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\EntityFramework.SqlServer.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\EntityFramework.xml
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\EntityFramework.SqlServer.xml
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\obj\Debug\TugasSE.csproj.AssemblyReference.cache
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\obj\Debug\TugasSE.csproj.CoreCompileInputs.cache
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\obj\Debug\TugasSE.csproj.CopyComplete
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\obj\Debug\TugasSE.dll
+C:\Users\goldi\Downloads\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\obj\Debug\TugasSE.pdb
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\TugasSE.dll.config
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\TugasSE.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\TugasSE.pdb
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\csc.exe
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\csc.exe.config
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\csc.rsp
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\csi.exe
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\csi.exe.config
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\csi.rsp
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.AppContext.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Collections.Immutable.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Console.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Globalization.Calendars.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.IO.Compression.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.IO.FileSystem.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Net.Http.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Net.Sockets.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.ValueTuple.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Xml.XPath.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\vbc.exe
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\vbc.exe.config
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\vbc.rsp
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\VBCSCompiler.exe
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\roslyn\VBCSCompiler.exe.config
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\EntityFramework.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\EntityFramework.SqlServer.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\EntityFramework.xml
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\EntityFramework.SqlServer.xml
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\obj\Debug\TugasSE.csproj.AssemblyReference.cache
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\obj\Debug\TugasSE.csproj.CoreCompileInputs.cache
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\obj\Debug\TugasSE.csproj.CopyComplete
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\obj\Debug\TugasSE.dll
+D:\Tugas Kuliah\Semester 4\COMP6640 - Software Engineering\Entre\TugasSE ver-5\TugasSE ver-4\TugasSE\TugasSE\obj\Debug\TugasSE.pdb
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\TugasSE.dll.config
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\TugasSE.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\TugasSE.pdb
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\csc.exe
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\csc.exe.config
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\csc.rsp
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\csi.exe
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\csi.exe.config
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\csi.rsp
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\System.AppContext.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\System.Collections.Immutable.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\System.Console.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\System.Globalization.Calendars.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\System.IO.Compression.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\System.IO.FileSystem.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\System.Net.Http.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\System.Net.Sockets.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\System.ValueTuple.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\System.Xml.XPath.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\vbc.exe
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\vbc.exe.config
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\vbc.rsp
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\VBCSCompiler.exe
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\roslyn\VBCSCompiler.exe.config
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\EntityFramework.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\EntityFramework.SqlServer.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\EntityFramework.xml
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\EntityFramework.SqlServer.xml
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\obj\Debug\TugasSE.csprojAssemblyReference.cache
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\obj\Debug\TugasSE.csproj.CoreCompileInputs.cache
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\obj\Debug\TugasSE.csproj.CopyComplete
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\obj\Debug\TugasSE.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-5\TugasSE ver-5\TugasSE ver-5\TugasSE\TugasSE\obj\Debug\TugasSE.pdb
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\TugasSE.dll.config
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\TugasSE.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\TugasSE.pdb
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\csc.exe
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\csc.exe.config
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\csc.rsp
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\csi.exe
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\csi.exe.config
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\csi.rsp
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\System.AppContext.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\System.Collections.Immutable.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\System.Console.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\System.Globalization.Calendars.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\System.IO.Compression.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\System.IO.FileSystem.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\System.Net.Http.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\System.Net.Sockets.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\System.ValueTuple.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\System.Xml.XPath.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\vbc.exe
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\vbc.exe.config
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\vbc.rsp
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\VBCSCompiler.exe
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\roslyn\VBCSCompiler.exe.config
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\EntityFramework.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\EntityFramework.SqlServer.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\EntityFramework.xml
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\EntityFramework.SqlServer.xml
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\obj\Debug\TugasSE.csprojAssemblyReference.cache
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\obj\Debug\TugasSE.csproj.CoreCompileInputs.cache
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\obj\Debug\TugasSE.csproj.CopyComplete
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\obj\Debug\TugasSE.dll
+D:\Tugas\Tugas SE\Entre\TugasSE ver-8\TugasSE\TugasSE\obj\Debug\TugasSE.pdb

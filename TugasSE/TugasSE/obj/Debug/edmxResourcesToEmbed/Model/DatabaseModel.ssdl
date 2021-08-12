@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DatabaseModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Apartement">
+    <Key>
+      <PropertyRef Name="ApartementId" />
+    </Key>
+    <Property Name="ApartementId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ApartementName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Address" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Phone" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ExpiredDate" Type="date" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Item">
+    <Key>
+      <PropertyRef Name="ItemId" />
+    </Key>
+    <Property Name="ItemId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ItemName" Type="varchar(max)" Nullable="false" />
+    <Property Name="ItemNote" Type="varchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ListDelivery">
+    <Key>
+      <PropertyRef Name="ItemId" />
+    </Key>
+    <Property Name="Username" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ItemId" Type="int" Nullable="false" />
+    <Property Name="DateDelivery" Type="date" Nullable="false" />
+    <Property Name="Status" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Username" />
+    </Key>
+    <Property Name="Username" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ApartementId" Type="int" Nullable="false" />
+    <Property Name="RoomNumber" Type="int" Nullable="false" />
+    <Property Name="Password" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="RoleId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="UserRole">
+    <Key>
+      <PropertyRef Name="RoleId" />
+    </Key>
+    <Property Name="RoleId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="RoleName" Type="varchar" MaxLength="255" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__ListDeliv__ItemI__31EC6D26">
+    <End Role="Item" Type="Self.Item" Multiplicity="1" />
+    <End Role="ListDelivery" Type="Self.ListDelivery" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Item">
+        <PropertyRef Name="ItemId" />
+      </Principal>
+      <Dependent Role="ListDelivery">
+        <PropertyRef Name="ItemId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ListDeliv__Usern__30F848ED">
+    <End Role="User" Type="Self.User" Multiplicity="1" />
+    <End Role="ListDelivery" Type="Self.ListDelivery" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Username" />
+      </Principal>
+      <Dependent Role="ListDelivery">
+        <PropertyRef Name="Username" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__User__Apartement__2B3F6F97">
+    <End Role="Apartement" Type="Self.Apartement" Multiplicity="1" />
+    <End Role="User" Type="Self.User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Apartement">
+        <PropertyRef Name="ApartementId" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="ApartementId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__User__RoleId__2C3393D0">
+    <End Role="UserRole" Type="Self.UserRole" Multiplicity="1" />
+    <End Role="User" Type="Self.User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserRole">
+        <PropertyRef Name="RoleId" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="RoleId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DatabaseModelStoreContainer">
+    <EntitySet Name="Apartement" EntityType="Self.Apartement" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Item" EntityType="Self.Item" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ListDelivery" EntityType="Self.ListDelivery" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="User" EntityType="Self.User" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="UserRole" EntityType="Self.UserRole" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__ListDeliv__ItemI__31EC6D26" Association="Self.FK__ListDeliv__ItemI__31EC6D26">
+      <End Role="Item" EntitySet="Item" />
+      <End Role="ListDelivery" EntitySet="ListDelivery" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ListDeliv__Usern__30F848ED" Association="Self.FK__ListDeliv__Usern__30F848ED">
+      <End Role="User" EntitySet="User" />
+      <End Role="ListDelivery" EntitySet="ListDelivery" />
+    </AssociationSet>
+    <AssociationSet Name="FK__User__Apartement__2B3F6F97" Association="Self.FK__User__Apartement__2B3F6F97">
+      <End Role="Apartement" EntitySet="Apartement" />
+      <End Role="User" EntitySet="User" />
+    </AssociationSet>
+    <AssociationSet Name="FK__User__RoleId__2C3393D0" Association="Self.FK__User__RoleId__2C3393D0">
+      <End Role="UserRole" EntitySet="UserRole" />
+      <End Role="User" EntitySet="User" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
