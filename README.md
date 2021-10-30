@@ -7,5 +7,15 @@ Mario Christanto
 
 At this ReadME.md i only explain how the apps works.
 
+
 The apps is all about noting all items that have been sended to receptionist at apartement.
 So we assume that there will be many apartement in the database.
+![alt text](https://github.com/bryantakari/FLYIT/blob/main/TugasSE/database.PNG)
+
+![alt text](https://github.com/bryantakari/FLYIT/blob/main/TugasSE/t1.PNG)
+
+![alt text](https://github.com/bryantakari/FLYIT/blob/main/TugasSE/t2.PNG)
+
+![alt text](https://github.com/bryantakari/FLYIT/blob/main/TugasSE/t3.PNG)
+
+![alt text](https://github.com/bryantakari/FLYIT/blob/main/TugasSE/t4.PNG)
