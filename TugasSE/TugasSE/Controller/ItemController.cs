@@ -25,12 +25,12 @@ namespace TugasSE.Controller
 
             if (name == null)
             {
-                note1 += "Username cannot be empty!<br />";
+                note1 += "Name cannot be empty!<br />";
             }
             else count++;
             if (note == null)
             {
-                note1 += "Password cannot be empty!<br />";
+                note1 += "Note cannot be empty!<br />";
             }
             else count++;
 
